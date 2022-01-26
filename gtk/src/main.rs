@@ -9,6 +9,7 @@ mod gresource;
 mod hash;
 mod localize;
 mod misc;
+mod udisks2;
 
 use crate::app::events::UiEvent;
 use crate::app::state::State;

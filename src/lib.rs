@@ -8,7 +8,6 @@ extern crate thiserror;
 pub extern crate mnt;
 
 pub mod codec;
-
 mod task;
 
 pub use self::task::{Progress, Task};
